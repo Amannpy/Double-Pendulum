@@ -62,6 +62,7 @@ lyapunov_heatmap = read_lyapunov_heatmap_from_csv(input_file)
 Hdimensions = 1260
 Wdimensions = Hdimensions
 
+
 theta1_range = np.linspace(0, 2 *np.pi, Hdimensions)  # Adjust the number of points as needed
 theta2_range = np.linspace(0, 2 *np.pi, Wdimensions)
 
