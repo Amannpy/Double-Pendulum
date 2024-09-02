@@ -7,7 +7,7 @@ This is a demonstration of interactively dropping a double pendulum at various p
 - **Interactive Double Pendulum Simulation**: Hover over points on the heatmap and see the corresponding animations.
 
 ## Visual Demonstration
-![Double Pendulum](path/to/your/image.gif)
+video
 
 ## Installation
 
